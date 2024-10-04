@@ -12,9 +12,13 @@ A random forest is a meta estimator that fits a number of decision tree regresso
 1. Install the required libraries:
 
    >pandas
+   
    >numpy
+   
    >scikit-learn
+   
    >flask
+   
    >joblib
 
 2. Make sure the files app.py,model_build.py,model.py,cardataset.xlsx and templates folder sre in same directory
